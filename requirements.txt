@@ -1,0 +1,4 @@
+Flask
+reportlab
+arabic-reshaper
+python-bidi
